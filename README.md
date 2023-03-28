@@ -19,7 +19,7 @@ Fitur :
 ## Installation
 
 ```bash
-Clone dulu repository.nya di htdocs 'git clone https://github.com/Setiawan007/STREAMNIME.git'
+Clone dulu repository.nya di htdocs 
 Buat database terlebih dahulu, kemudian import database
 Sesuaikan pengaturan koneksi database di app/application/config/database.php
 ```
